@@ -1,0 +1,12 @@
+/* index.css */
+
+@font-face {
+  font-family: 'Momo Trust Display';
+  src: url('/public/MomoTrustDisplay-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Momo Trust Display', sans-serif;
+}
