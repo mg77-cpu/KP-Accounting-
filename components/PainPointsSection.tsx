@@ -58,7 +58,7 @@ const PainPointsSection: React.FC = () => {
           {painPoints.map((point, index) => (
             <div key={index}>
               <TiltedCard
-              imageSrc={""}
+              imageSrc={null}
                 altText={point.problem}
                 captionText={point.problem}
                 containerHeight="400px"
